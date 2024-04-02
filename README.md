@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **any projects to advance my skills**
 
-- 👨‍💻 All of my projects are available at [https://lukasdembickiportfolio.netlify.app](https://lukasdembickiportfolio.netlify.app)
+- 👨‍💻 A selection of my projects are available at [https://lukasdembickiportfolio.netlify.app](https://lukasdembickiportfolio.netlify.app)
 
 - 📫 How to reach me **Lad_777@hotmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oY-wGImZRouRfyvMlctgllJNbEPr5FJP/view?usp=sharing](https://drive.google.com/file/d/1oY-wGImZRouRfyvMlctgllJNbEPr5FJP/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1oY-wGImZRouRfyvMlctgllJNbEPr5FJP/view?usp=sharing](https://drive.google.com/file/d/1oY-wGImZRouRfyvMlctgllJNbEPr5FJP/view?usp=sharing)](https://drive.google.com/file/d/1QV-nMcOyI7S_lrOfvOLN6VxED0O3uT54/view?usp=drive_link)
 
 - ⚡ Fun fact **I love gaming and computer tech just as much as I love snowboarding and rock climbing.**
 
