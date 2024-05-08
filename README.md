@@ -11,7 +11,7 @@
 
 - 👨‍💻 A selection of my projects are available at [https://lukasdembickiportfolio.netlify.app](https://lukasdembickiportfolio.netlify.app)
 
-- 📫 How to reach me **Lad_777@hotmail.com**
+- 📫 How to reach me **lukas.dembicki@outlook.com**
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1oY-wGImZRouRfyvMlctgllJNbEPr5FJP/view?usp=sharing](https://drive.google.com/file/d/1oY-wGImZRouRfyvMlctgllJNbEPr5FJP/view?usp=sharing)](https://drive.google.com/file/d/1QV-nMcOyI7S_lrOfvOLN6VxED0O3uT54/view?usp=drive_link)
 
