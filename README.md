@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on a counselling website for my wife [Well Grounded Counselling](https://github.com/PeachyOmnivore/WellGroundedCounselling)
 
-- 🌱 I’m currently practicing and learning **React, JavaScript, Node.js, Git**
+- 🌱 I’m currently practicing and learning **Python, Typescript, Angular, React, JavaScript, Node.js, Git**
 
-- 🤝 I’m looking for help with **any projects to advance my skills**
+- 🤝 I’m looking for help with **developing and mastering specific regions and skills in the engineering space**
 
 - 👨‍💻 A selection of my projects are available at [https://lukasdembickiportfolio.netlify.app](https://lukasdembickiportfolio.netlify.app)
 
 - 📫 How to reach me **lukas.dembicki@outlook.com**
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1sHBEC4Oe_xJOm9ro2cpCYzb5N0pubzJD/view?usp=drive_link)
+- 📄 Know about my experiences [My Curriculum vitae](https://drive.google.com/file/d/1sHBEC4Oe_xJOm9ro2cpCYzb5N0pubzJD/view?usp=drive_link)
 
 - ⚡ Fun fact **I love gaming and computer tech just as much as I love snowboarding and rock climbing.**
 
