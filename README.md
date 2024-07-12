@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **lukas.dembicki@outlook.com**
 
-- 📄 Know about my experiences [[[https://drive.google.com/file/d/1oY-wGImZRouRfyvMlctgllJNbEPr5FJP/view?usp=sharing](https://drive.google.com/file/d/1oY-wGImZRouRfyvMlctgllJNbEPr5FJP/view?usp=sharing)]usp=drive_link)](https://drive.google.com/file/d/1sHBEC4Oe_xJOm9ro2cpCYzb5N0pubzJD/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1sHBEC4Oe_xJOm9ro2cpCYzb5N0pubzJD/view?usp=drive_link)
 
 - ⚡ Fun fact **I love gaming and computer tech just as much as I love snowboarding and rock climbing.**
 
