@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peachyomnivore&label=Profile%20views&color=0e75b6&style=flat" alt="peachyomnivore" /> </p>
 
-- 🔭 I’m currently working on a counselling website for my wife [Well Grounded Counselling](https://github.com/PeachyOmnivore/WellGroundedCounselling)
-
-- 🌱 I’m currently practicing and learning **Python, Typescript, Angular, React, JavaScript, Node.js, Git**
-
-- 🤝 I’m looking for help with **developing and mastering specific regions and skills in the engineering space**
-
-- 👨‍💻 A selection of my projects are available at [https://lukasdembickiportfolio.netlify.app](https://lukasdembickiportfolio.netlify.app)
+- Current working as a low-code / no-code developer for Farsight Digital Solutions. 
 
 - 📫 How to reach me **lukas.dembicki@outlook.com**
 
